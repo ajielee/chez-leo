@@ -1,0 +1,22 @@
+#languageSwitch {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding-left: 5px;
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    img {
+      width: 32px;
+      height: 32px;
+      opacity: 0.4;
+    }
+
+  }
+
+}
