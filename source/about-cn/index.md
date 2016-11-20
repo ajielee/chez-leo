@@ -6,7 +6,7 @@ keywords:
 comments: false
 ---
 
-<ul id="languageSwitchBar" onmouseout="focusOnSelectedLanguage()" style="display: flex;list-style-type: none;padding: 0;margin: 0;"> <li class="language-selected" onmouseover="focusOnMouseOverIcon(this)" style="padding-left: 5px;margin-left: 0;"> <a href="/about-cn" title="中文"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_cn.png" alt="中文" style="width: 32px;height: 32px;opacity: 0.4;"></a> </li><li class="" onmouseover="focusOnMouseOverIcon(this)" style="padding-left: 5px;"> <a href="/about-en" title="English"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_en.png" alt="English" style="width: 32px;height: 32px;opacity: 0.4;"></a> </li><li class="" onmouseover="focusOnMouseOverIcon(this)" style="padding-left: 5px;"> <a href="/about-fr" title="Français"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_fr.png" alt="Français" style="width: 32px;height: 32px;opacity: 0.4;"></a> </li></ul>
+<ul id="languageSwitch"> <li class="language-selected"> <a href="/about-cn" title="中文"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_cn.png" alt="中文"></a> </li><li> <a href="/about-en" title="English"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_en.png" alt="English"></a> </li><li> <a href="/about-fr" title="Français"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_fr.png" alt="Français"></a> </li></ul>
 
 Hi，欢迎来到我"家"。以下是我的个人介(zì)绍(hēi)：
 
@@ -55,23 +55,4 @@ Hi，欢迎来到我"家"。以下是我的个人介(zì)绍(hēi)：
 从打造这里的第一天开始，我就决定了要好好学习天天向上，做只积极快乐、勤奋好学的猿。拍了好照片，放这里；写了点生活见闻，放这里；整理了学习心得，放这里；码出了新玩意，还是放这里。
 
 让我能跟代码、跟生活好好地玩耍，就是这个游乐场的意义。
-
-<script>
-focusOnSelectedLanguage()
-function blurIcons() {
-  var languages = document.querySelectorAll("#languageSwitchBar > li")
-  languages.forEach(function(element) {
-    element.querySelector("a > img").style.opacity = "0.4"
-  })
-}
-function focusOnMouseOverIcon(element) {
-  blurIcons();
-  element.querySelector("a > img").style.opacity = "1"
-}
-function focusOnSelectedLanguage() {
-  blurIcons()
-  var languageSelected = document.querySelector("#languageSwitchBar > .language-selected")
- languageSelected.querySelector("a > img").style.opacity = "1"
-}
-</script>
 
