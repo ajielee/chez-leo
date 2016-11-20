@@ -6,6 +6,8 @@ keywords:
 comments: false
 ---
 
+<ul style="list-style-type:none;padding:0;margin:0;display:flex;"> <li style="margin-left:5px" class="language-selected" onmouseover="focusIcon(this)" onmouseout="blurIcon(this)"> <a href="/about-cn" title="中文"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_cn.png" alt="中文" style="width:32px;height:32px;opacity:0.4;"></a> </li><li style="margin-left:5px" onmouseover="focusIcon(this)" onmouseout="blurIcon(this)"> <a href="/about-en" title="English"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_en.png" alt="English" style="width:32px;height:32px;opacity:0.4;"></a> </li><li style="margin-left:5px" onmouseover="focusIcon(this)" onmouseout="blurIcon(this)"> <a href="/about-fr" title="Français"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_fr.png" alt="Français" style="width:32px;height:32px;opacity:0.4;"></a> </li></ul>
+
 Hi，欢迎来到我"家"。以下是我的个人介(zì)绍(hēi)：
 
 我是一只正在法兰西斯坦奋(zhènɡ)斗(zhá)的程序猿，曾就职于国内某不知名IT公司，码了一年多的Java农。后来心血来潮，跟老婆私(táo)奔(páo)到法国留学继续回(yóu)炉(shoú)再(hào)造(xián)，然后一转眼三年就过去了。
@@ -53,3 +55,22 @@ Hi，欢迎来到我"家"。以下是我的个人介(zì)绍(hēi)：
 从打造这里的第一天开始，我就决定了要好好学习天天向上，做只积极快乐、勤奋好学的猿。拍了好照片，放这里；写了点生活见闻，放这里；整理了学习心得，放这里；码出了新玩意，还是放这里。
 
 让我能跟代码、跟生活好好地玩耍，就是这个游乐场的意义。
+
+<script>
+    (function() {
+        document.querySelector(".language-selected > a > img").style.opacity = "1"
+    })();
+
+    function focusIcon(element) {
+        element.querySelector("a > img").style.opacity = "1"
+    }
+
+    function blurIcon(element) {
+        if ((" " + element.className + " ").replace(/[\n\t]/g, " ").indexOf("language-selected") > -1) {
+            element.querySelector("a > img").style.opacity = "1"
+        } else {
+            element.querySelector("a > img").style.opacity = "0.4"
+        }
+    }
+</script>
+

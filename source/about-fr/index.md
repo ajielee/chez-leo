@@ -6,6 +6,8 @@ keywords:
 comments: false
 ---
 
+<ul style="list-style-type:none;padding:0;margin:0;display:flex;"> <li style="margin-left:5px" onmouseover="focusIcon(this)" onmouseout="blurIcon(this)"> <a href="/about-cn" title="中文"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_cn.png" alt="中文" style="width:32px;height:32px;opacity:0.4;"></a> </li><li style="margin-left:5px" onmouseover="focusIcon(this)" onmouseout="blurIcon(this)"> <a href="/about-en" title="English"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_en.png" alt="English" style="width:32px;height:32px;opacity:0.4;"></a> </li><li style="margin-left:5px" class="language-selected" onmouseover="focusIcon(this)" onmouseout="blurIcon(this)"> <a href="/about-fr" title="Français"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_fr.png" alt="Français" style="width:32px;height:32px;opacity:0.4;"></a> </li></ul>
+
 Bonjour, bienvenue chez moi. 
 
 Je m'appelle LI Xiaojie, « LI » est mon nom. Vous pouvez m'appeler « Léo ». Je suis chinois, j'habite à Paris. Trois ans avant, je suis venu en France pour faire mes études à Rouen, dans une école d'ingénieur qui s'appelle « ESIGELEC ». Actuellement, je suis en train de faire mon stage de fin d'étude chez Orange.
@@ -69,4 +71,22 @@ Pour bien profiter la vie en France, et aussi pour enregistrer les bons moments,
 
 * Voyage : J'aime toujours découvrir les choses inconnues pour moi. Pendant le voyage, on peut voir les paysages magnifiques, puis on peut rencontrer les gens sympathiques. Après avoir été en plusieurs pays, la ville que j'adore c'est Paris, la village que j'aime c'est Annecy, la ville que j'ai envie d'aller encore c'est Prague, la pays que je désire aller le plus tôt possible c'est Japon.
 * Cuisine : Je suis fort en cuisiner les plats chinois, surtout en cantonais, comme du riz cantonais. Grâce au guide de ma femme, je suis capable de faire un grand repas.
+
+<script>
+    (function() {
+        document.querySelector(".language-selected > a > img").style.opacity = "1"
+    })();
+
+    function focusIcon(element) {
+        element.querySelector("a > img").style.opacity = "1"
+    }
+
+    function blurIcon(element) {
+        if ((" " + element.className + " ").replace(/[\n\t]/g, " ").indexOf("language-selected") > -1) {
+            element.querySelector("a > img").style.opacity = "1"
+        } else {
+            element.querySelector("a > img").style.opacity = "0.4"
+        }
+    }
+</script>
 
