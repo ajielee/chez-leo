@@ -1,8 +1,61 @@
 #footer {
-    color:      map-get($colors, light);
-    font-size:  map-get($font-size, medium);
-    text-align: center;
-    margin-top: 70px;
-    height:     auto;
-    padding:    20px 20px;
+  color: map-get($colors, light);
+  font-size: map-get($font-size, medium);
+  height: auto;
+  margin-top: 70px;
+  padding: 20px 20px;
+  text-align: center;
+
+  #scrollToTop {
+    $scroll-to-top-color: #4a4a4a;
+    $scroll-to-top-side-length: 30px;
+
+    color: $scroll-to-top-color;
+    font-size: $scroll-to-top-side-length;
+    opacity: 0;
+    position: fixed;
+    text-decoration: none;
+    text-shadow: 1px 1px #fff;
+    transition: opacity 1s;
+    width: $scroll-to-top-side-length;
+    z-index: -999;
+
+    &.show {
+      opacity: 0.4;
+      z-index: 1;
+
+      &:hover {
+        opacity: 1;
+      }
+
+    }
+
+    i, span {
+      display: block;
+      width: $scroll-to-top-side-length;
+    }
+
+    .underscore {
+      background-color: $scroll-to-top-color;
+      border-radius: 10px;
+      height: 3px;
+      margin-top: 2px;
+    }
+
+  }
+
+  @media #{$small-and-down} {
+    #scrollToTop {
+      bottom: 30px;
+      right: 30px;
+    }
+  }
+
+  @media #{$medium-and-up} {
+    #scrollToTop {
+      bottom: 50px;
+      right: 80px;
+    }
+  }
+
 }
