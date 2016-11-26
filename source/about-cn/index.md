@@ -29,8 +29,8 @@ comments: false
 我喜欢旅游，跟很多人一样。
 来欧洲这几年，我到过很多地方，看了很多风景，然后觉得好东西应该跟别人分享，所以喜欢拍拍照。以下算是我的摄影集：
 
-* 一般日常照片全发这里：[![Instagram](http://res.cloudinary.com/dvlfojetn/image/upload/c_scale,w_50/v1478451531/xiaojieli.com/icon_Instagram.png)](https://instagram.com/leo_li/)
-* 觉得可以见人的发这里：[![500px](http://res.cloudinary.com/dvlfojetn/image/upload/c_scale,w_50/v1478451735/xiaojieli.com/icon_500px.jpg)](https://500px.com/XiaojieLI)
+* 一般日常照片全发这里：[Instagram](https://instagram.com/leo_li/)
+* 觉得可以见人的发这里：[500px](https://500px.com/XiaojieLI)
 
 当然，作为一个标准的中国人，怎么少得了吃。因为自己喜欢爱吃，所以我也学了做饭。虽不算厨艺精湛，但至少会做两三道拿手小菜，就算生活在没有中餐馆的地方不至于馋死。
 
