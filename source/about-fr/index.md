@@ -6,7 +6,7 @@ keywords:
 comments: false
 ---
 
-<ul id="languageSwitch"> <li> <a href="/about-cn" title="中文"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_cn.png" alt="中文"></a> </li><li> <a href="/about-en" title="English"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_en.png" alt="English"></a> </li><li class="language-selected"> <a href="/about-fr" title="Français"><img src="http://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_fr.png" alt="Français"></a> </li></ul>
+<ul id="languageSwitch" data-selected="fr" data-languages="cn,en,fr" data-url_cn="/about-cn" data-url_en="/about-en" data-url_fr="/about-fr"></ul>
 
 Bonjour, 
 
@@ -21,5 +21,5 @@ Merci à votre visit, si vous aimez mes articles, n'hésitez pas les commenter o
 
 Si vous voulez me proposer des offres d'emploi, vous pouvez me contacter par cette adresse mail : [ajie.lee@gmail.com](mailto:ajie.lee@gmail.com)
 
-**Merci de ne pas me proposer des mission Drupal ou PrestaShop, SVP.**
+**Merci de ne pas me proposer des mission Drupal ou PrestaShop, SVP.**`
 
