@@ -10,7 +10,9 @@ comments: false
 
 Bonjour, 
 
-je m'appelle Xiaojie, un chinois qui vit à Paris, « Léo » est mon nom français, bienvenue chez moi. 
+je m'appelle Xiaojie, un chinois qui vit à Paris, « Léo » est mon nom français, bienvenue chez moi.
+ 
+<!-- more --> 
 
 Ici, vous pouvez trouver deux types d'articles: 
 
@@ -19,7 +21,9 @@ Ici, vous pouvez trouver deux types d'articles:
 
 Merci à votre visit, si vous aimez mes articles, n'hésitez pas les commenter ou les partager.
 
+---
+
 Si vous voulez me proposer des offres d'emploi, vous pouvez me contacter par cette adresse mail : [ajie.lee@gmail.com](mailto:ajie.lee@gmail.com)
 
-**Merci de ne pas me proposer des mission Drupal ou PrestaShop, SVP.**`
+**Merci de ne pas me proposer des mission Drupal ou PrestaShop.**
 
