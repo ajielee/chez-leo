@@ -25,5 +25,5 @@ Merci à votre visit, si vous aimez mes articles, n'hésitez pas les commenter o
 
 Si vous voulez me proposer des offres d'emploi, vous pouvez me contacter par cette adresse mail : [ajie.lee@gmail.com](mailto:ajie.lee@gmail.com)
 
-**Merci de ne pas me proposer des mission Drupal ou PrestaShop.**
+**Merci de ne pas me proposer des missions Drupal ou PrestaShop.**
 
