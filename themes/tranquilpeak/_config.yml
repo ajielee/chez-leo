@@ -66,10 +66,10 @@ sidebar:
             title: global.linkedin
             url: https://www.linkedin.com/in/xiaojie-li-69bb2b35?trk=nav_responsive_tab_profile_pic
             icon: linkedin
-        mail:
-            title: global.mail
-            url: mailto:ajie.lee@gmail.com
-            icon: envelope-o
+#        mail:
+#            title: global.mail
+#            url: mailto:ajie.lee@gmail.com
+#            icon: envelope-o
     rss:
         rss:
             title: global.rss
