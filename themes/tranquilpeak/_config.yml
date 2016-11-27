@@ -53,10 +53,10 @@ sidebar:
         #    icon: search
               # `st-search-show-outputs` classes are used to open swiftype search window
         #    class: st-search-show-outputs
-    about:
-        title: global.about
-        url: /about
-        icon: question
+        about:
+            title: global.about
+            url: /about
+            icon: question
     author_links:
         github:
             title: global.github
@@ -66,6 +66,11 @@ sidebar:
             title: global.linkedin
             url: https://www.linkedin.com/in/xiaojie-li-69bb2b35?trk=nav_responsive_tab_profile_pic
             icon: linkedin
+        instagram:
+            title: "Instagram"
+            url: https://500px.com/XiaojieLI
+            icon: instagram
+
 #        mail:
 #            title: global.mail
 #            url: mailto:ajie.lee@gmail.com
