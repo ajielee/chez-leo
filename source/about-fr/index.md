@@ -1,6 +1,6 @@
 ---
 title: "De moi"
-date: 2016-11-06 17:46:34
+date: 2016-11-27 17:46:34
 keywords:
 - about me
 comments: false
