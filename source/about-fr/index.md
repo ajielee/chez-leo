@@ -17,7 +17,7 @@ je m'appelle Xiaojie, un chinois qui vit à Paris, « Léo » est mon nom franç
 Ici, vous pouvez trouver deux types d'articles: 
 
 - **Coding**: Je travaille en tant que développeur web, une moitié de temps de ma vie quotitienne reste toujours sur ce domaine. Alors j'ai beaucoup d'idées à partager, il me faut aussi noter ce que j'ai appris pendant les projets que je participe, et puis il y a(ura) des nouvelles technologies que je suis en train de m'entraîner.
-- **Life**: J'aime bien voyager. Aprés être arrivé en France, je suis déjà allé aux plusieurs pays européens, je veux noter ce mes expérience. De plus, comme les autre voyageurs, j'ai pris pas mal de photos pendant mes voyage, je voudrais vous partager aussi les bons moments. Voici deux réseaux sociaux que j'utilise à partager mes photos: [Instagram](https://instagram.com/leo_li/) & [500px](https://500px.com/XiaojieLI)
+- **Life**: J'aime bien voyager. Après être arrivé en France, je suis déjà allé aux plusieurs pays européens, je veux noter ce mes expérience. De plus, comme les autre voyageurs, j'ai pris pas mal de photos pendant mes voyage, je voudrais vous partager aussi les bons moments. Voici deux réseaux sociaux que j'utilise à partager mes photos: [Instagram](https://instagram.com/leo_li/) & [500px](https://500px.com/XiaojieLI)
 
 Merci à votre visit, si vous aimez mes articles, n'hésitez pas les commenter ou les partager.
 
