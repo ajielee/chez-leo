@@ -64,6 +64,10 @@ Briefly speaking, we make webs with new technologies like HTTPS, Service Worker 
 
 We can't do this right now, but as the web develops at a high speed, it should be there soon.
 
+**Follow-up:**
+
+I found an article about `Service Worker`, you can read it here: *[« Service Worker, what are you ? »](http://kosamari.com/notes/Service-Worker-what-are-you)*. In general, `Service Worker` can intereact with browers without manual operation, but it can't interact DOM in pages, and we can't control over its lifecycle.
+
 
 <!--
 
