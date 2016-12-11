@@ -37,6 +37,7 @@ _*[@youyuxi](https://twitter.com/youyuxi) 大神出品的“官方”新手学�
     - [Vuejs - Conditional Rendering](http://codepen.io/leo_li/pen/GNBGEQ)
     - [Vuejs - List Rendering](http://codepen.io/leo_li/pen/vyaQaP)
     - [Vuejs - Event Handling](http://codepen.io/leo_li/pen/QGBYWB)
+    - [Vuejs - Form Input Bindings](http://codepen.io/leo_li/pen/rWZVwB)
 4. <input type="checkbox" disabled="disabled"> 阅读官方教程进阶篇的前半部分，到『自定义指令 (Custom Directive) 』为止。着重理解 Vue 的响应式机制和组件生命周期。『渲染函数（Render Function)』如果理解吃力可以先跳过。
 5. <input type="checkbox" disabled="disabled"> 阅读教程里关于路由和状态管理的章节，然后根据需要学习 vue-router 和 vuex。同样的，先不要管构建工具，以跟着文档里的例子理解用法为主。
 6. <input type="checkbox" disabled="disabled"> 走完基础文档后，如果你对于基于 Node 的前端工程化不熟悉，就需要补课了。
