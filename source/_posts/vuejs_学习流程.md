@@ -27,7 +27,7 @@ _*[@youyuxi](https://twitter.com/youyuxi) 大神出品的“官方”新手学�
 
 ### 起步
 
-1. <input type="checkbox" checked disabled="disabled"> ~~扎实的 JavaScript / HTML / CSS 基本功。~~ 
+1. <input type="checkbox" checked disabled="disabled"> 扎实的 JavaScript / HTML / CSS 基本功。
 2. <input type="checkbox" disabled="disabled"> 通读官方教程 (guide) 的基础篇。不要用任何构建工具，就只用最简单的 `<script>`，把教程里的例子模仿一遍，理解用法。**不推荐上来就直接用 vue-cli 构建项目，尤其是如果没有 Node/Webpack 基础。**   
 3. <input type="checkbox" disabled="disabled"> 照着官网上的示例，自己想一些类似的例子，模仿着实现来练手，加深理解。  
     _以下是我练习用的 Codepen:_
@@ -45,7 +45,7 @@ _*[@youyuxi](https://twitter.com/youyuxi) 大神出品的“官方”新手学�
 ### 前端生态/工程化
 
 1. <input type="checkbox" disabled="disabled"> 了解 JavaScript 背后的规范，ECMAScript 的历史和目前的规范制定方式。学习 ES2015/16 的新特性，理解 ES2015 modules，适当关注[还未成为标准的提案](https://github.com/tc39/proposals)。
-2. <input type="checkbox" checked disabled="disabled"> ~~学习命令行的使用。~~
+2. <input type="checkbox" checked disabled="disabled"> 学习命令行的使用。
 3. <input type="checkbox" disabled="disabled"> 学习 Node.js 基础。至少要了解 npm 的常用命令，npm scripts 如何使用，语义化版本号规则，CommonJS 模块规范（了解它和 ES2015 Modules 的异同），Node 包的解析规则，以及 Node 的常用 API。应当做到可以自己写一些基本的命令行程序。注意最新版本的 Node (6+) 已经支持绝大部分 ES2015 的特性，可以借此巩固 ES2015。
 4. <input type="checkbox" disabled="disabled"> 了解如何使用 / 配置 Babel 来将 ES2015 编译到 ES5 用于浏览器环境。
 5. <input type="checkbox" disabled="disabled"> 学习 Webpack。Webpack 是一个极其强大同时也复杂的工具，作为起步，理解它的『一切皆模块』的思想，并基本了解其常用配置选项和 loader 的概念/使用方法即可，比如如何搭配 Webpack 使用 Babel。学习 Webpack 的一个挑战在于其本身文档的混乱，建议多搜索搜索，应该还是有质量不错的第三方教程的。英文好的建议阅读 [Webpack 2.0 的文档](https://webpack.js.org/get-started/)，比起 1.0 有极大的改善，但需要注意和 1.0 的不兼容之处。
@@ -71,9 +71,11 @@ _*[@youyuxi](https://twitter.com/youyuxi) 大神出品的“官方”新手学�
 
 ### III. 视频教程
 
-1. <input type="checkbox" disabled="disabled"> LARACAST - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 🇬🇧
-2. <input type="checkbox" disabled="disabled"> Egghead - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) 🇬🇧
-3. <input type="checkbox" disabled="disabled"> Grafikart - [Formation VueJS 2](https://www.grafikart.fr/formations/vuejs) 🇫🇷
+1. <input type="checkbox" checked disabled="disabled"> Traversy Media - [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue&v=-zW1zHqsdyc#t=18.20633431) 🇬🇧   
+   _观后感_：关于 Vue 基础功能的介绍视频，基本就把官方文档 [« Essentials »](https://vuejs.org/v2/guide/) 这一章的主要内容演示一遍，建议看过文档后来看视频，当复习和练习材料还不错；视频里面还涉及到 `vue-cli`, `vue-resource` 和 `vue-router` 的简短介绍，但都不是重点。
+2. <input type="checkbox" disabled="disabled"> LARACAST - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 🇬🇧
+3. <input type="checkbox" disabled="disabled"> Egghead - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) 🇬🇧
+4. <input type="checkbox" disabled="disabled"> Grafikart - [Formation VueJS 2](https://www.grafikart.fr/formations/vuejs) 🇫🇷
 
 ### IV. Github 项目
 
