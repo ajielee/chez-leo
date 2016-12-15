@@ -11,7 +11,7 @@ tags:
 - vuejs
 ---
 
-![vuejs logo](http://res.cloudinary.com/dvlfojetn/image/upload/c_scale,w_300/v1481474792/xiaojieli.com/posts/vuejs_logo.png)
+[![vuejs logo](http://res.cloudinary.com/dvlfojetn/image/upload/c_scale,w_300/v1481474792/xiaojieli.com/posts/vuejs_logo.png)](https://vuejs.org/)
 
 以下是我学习 vue.js 的计划流程，一切正在进行中...
 
@@ -71,11 +71,14 @@ _*[@youyuxi](https://twitter.com/youyuxi) 大神出品的“官方”新手学�
 
 ### III. 视频教程
 
-1. <input type="checkbox" checked disabled="disabled"> Traversy Media - [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue&v=-zW1zHqsdyc#t=18.20633431) 🇬🇧   
+- <input type="checkbox" checked disabled="disabled"> Traversy Media - [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue&v=-zW1zHqsdyc#t=18.20633431) 🇬🇧   
    _观后感_：关于 Vue 基础功能的介绍视频，基本就把官方文档 [« Essentials »](https://vuejs.org/v2/guide/) 这一章的主要内容演示一遍，建议看过文档后来看视频，当复习和练习材料还不错；视频里面还涉及到 `vue-cli`, `vue-resource` 和 `vue-router` 的简短介绍，但都不是重点。
-2. <input type="checkbox" disabled="disabled"> LARACAST - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 🇬🇧
-3. <input type="checkbox" disabled="disabled"> Egghead - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) 🇬🇧
-4. <input type="checkbox" disabled="disabled"> Grafikart - [Formation VueJS 2](https://www.grafikart.fr/formations/vuejs) 🇫🇷
+   
+- <input type="checkbox" disabled="disabled"> LARACAST - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 🇬🇧
+
+- <input type="checkbox" disabled="disabled"> Egghead - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) 🇬🇧
+
+- <input type="checkbox" disabled="disabled"> Grafikart - [Formation VueJS 2](https://www.grafikart.fr/formations/vuejs) 🇫🇷
 
 ### IV. Github 项目
 
