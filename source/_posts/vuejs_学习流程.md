@@ -13,7 +13,7 @@ tags:
 
 ![vuejs logo](http://res.cloudinary.com/dvlfojetn/image/upload/c_scale,w_300/v1481474792/xiaojieli.com/posts/vuejs_logo.png)
 
-以下我学习 vue.js 的计划流程，一切正在进行中...
+以下是我学习 vue.js 的计划流程，一切正在进行中...
 
 **计划开始时间: 2016/12/01**
 
