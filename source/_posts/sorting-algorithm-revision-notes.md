@@ -37,8 +37,8 @@ tags:
 
 由于用一页放下所有笔记会令页面太长难以阅读，所以我将关于不同排序的笔记分成了单独的文章：
 
-1. [冒泡排序 (Bubble sort)](/coding/冒泡排序/)
-2. [选择排序 (Selection sort)](/coding/选择排序/)
+1. [冒泡排序 (Bubble sort)](/coding/sorting-algorithm-revision-notes-bubble-sort/)
+2. [选择排序 (Selection sort)](/coding/sorting-algorithm-revision-notes-selection-sort/)
 
 持续更新中...
 

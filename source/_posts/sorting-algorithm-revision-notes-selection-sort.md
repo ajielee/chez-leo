@@ -98,9 +98,9 @@ for (var first = 0; first <= length -2; first ++) {
 
 这是我在复习排序算法时写的其中一篇笔记，完整列表如下：
 
-1. [前言](/coding/%E5%A4%8D%E4%B9%A0%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/)
-2. [冒泡排序 (Bubble sort)](/coding/冒泡排序/)
-3. [选择排序 (Selection sort)](/coding/选择排序/)
+1. [前言](/coding/sorting-algorithm-revision-notes/)
+2. [冒泡排序 (Bubble sort)](/coding/sorting-algorithm-revision-notes-bubble-sort/)
+3. [选择排序 (Selection sort)](/coding/sorting-algorithm-revision-notes-selection-sort/)
 
 持续更新中...
 
