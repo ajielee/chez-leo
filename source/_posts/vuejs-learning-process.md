@@ -74,6 +74,8 @@ _*[@youyuxi](https://twitter.com/youyuxi) 大神出品的“官方”新手学�
 - <input type="checkbox" checked disabled="disabled"> Traversy Media - [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue&v=-zW1zHqsdyc#t=18.20633431) 🇬🇧   
    _观后感_：关于 Vue 基础功能的介绍视频，基本就把官方文档 [« Essentials »](https://vuejs.org/v2/guide/) 这一章的主要内容演示一遍，建议看过文档后来看视频，当复习和练习材料还不错；视频里面还涉及到 `vue-cli`, `vue-resource` 和 `vue-router` 的简短介绍，但都不是重点。
    
+- <input type="checkbox" disabled="disabled"> Udemy - [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/content) 🇬🇧
+   
 - <input type="checkbox" disabled="disabled"> LARACAST - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 🇬🇧
 
 - <input type="checkbox" disabled="disabled"> Egghead - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) 🇬🇧
